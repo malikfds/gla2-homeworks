@@ -10,16 +10,12 @@ A repository to receive and review General Assembly GL FEWD 2 homeworks
 
 1. Fork this repo
 2. On your GitHub Desktop:
-
-- Add this repo `https://github.com/pataruco/gla2-homeworks.git`
-- Create a new branch with the following structure `firstname-lastname`
-
+   - Add this repo `https://github.com/pataruco/gla2-homeworks.git`
+   - Create a new branch with the following structure `firstname-lastname`
 3. On your local machine:
-
-- Get into [week-2](./week-2) folder
-- Create a new folder with the same structure (`firstname-lastname`).
-- Add the unzipped files that your instructor gave you.
-
+   - Get into [week-2](./week-2) folder
+   - Create a new folder with the same structure (`firstname-lastname`).
+   - Add the unzipped files that your instructor gave you.
 4. Complete your homework.
 5. Then go again to your GitHub Desktop:
    - Create a new commit with your work
