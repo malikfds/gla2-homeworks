@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+}
+
+.column {
+  flex-basis: 100%;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
