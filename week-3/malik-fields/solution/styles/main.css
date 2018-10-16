@@ -1,6 +1,11 @@
 * {
   box-sizing: border-box;
 
+
+}
+body{
+background-color: black;
+
 }
 
 .row {
@@ -13,37 +18,91 @@
   flex-basis: 100%;
   flex-grow: 1;
   flex-shrink: 1;
+
+}
+
+
+header {
+
+height: 12.5vh;
+border-bottom: 5px solid yellow;
+background-color: black;
+}
+
+
+nav{
+margin-left:150px;
+max-width: inherit;
+
 }
 
 a[href^="https"] {
   font-family: monospace;
   color: white;
   font-size: 20px;
+  text-decoration: none;
+  font-weight: bold;
 
-font-style:
+
 
 }
 a[href^="#"] {
-  font-family: inherit;
+  font-family: sans-serif;
   color: white;
+  text-decoration: none;
+  font-weight:bold;
 
 font-style:
 
 }
 
-header {
-border-bottom: 5px solid yellow;
-background-color: black;
+div{
+background-image: url('coworking.jpg');
+
 }
+
 
 h1 {
 font-family: serif;
-color: yellow;
+color: rgb(254, 247, 44);
+margin-left: 20px;
 }
 
-div {
+main {
 background-color: grey;
+text-align: center;
+}
+
+aside{
+height:200px;
+border: 2px solid black;
+}
+
+ul{
+list-style: none;
+text-align: center;
+}
+
+button {
+height: 50px;
+
+}
+
+blockquote{
+  text-align: center;
+  font-size: 24px;
+  font-style:italic;
+}
 
 
+section {
+background-color:white;
+
+}
+
+footer {
+background-color: black;
+font-family: sans-serif;
+color: white;
 
 }
