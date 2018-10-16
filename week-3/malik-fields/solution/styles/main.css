@@ -14,3 +14,36 @@
   flex-grow: 1;
   flex-shrink: 1;
 }
+
+a[href^="https"] {
+  font-family: monospace;
+  color: white;
+  font-size: 20px;
+
+font-style:
+
+}
+a[href^="#"] {
+  font-family: inherit;
+  color: white;
+
+font-style:
+
+}
+
+header {
+border-bottom: 5px solid yellow;
+background-color: black;
+}
+
+h1 {
+font-family: serif;
+color: yellow;
+}
+
+div {
+background-color: grey;
+
+
+
+}
